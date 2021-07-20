@@ -1,0 +1,40 @@
+.header{
+    color:blueviolet;
+    display:flex;
+    justify-content: space-between;
+}
+.camel{
+    border-style: double;
+    border-color: blueviolet;
+}
+.chameleon{
+    border-style: dotted;
+    border-radius: 10ch;
+    border-color: black
+}
+.teddy{
+    border-style:groove;
+    border-color: purple;
+    
+}
+a:link{
+    color:white
+}
+a:visited{
+    color:white
+}
+.origami:hover{
+    transform:scale(1.2)
+}
+.bodyimg{
+    position:relative
+}
+.bodyimg p{
+    color:white;
+    font-size:55px;
+    font-family: fantasy;
+    position: absolute;
+    top:10%;
+    left:50%;
+
+}
